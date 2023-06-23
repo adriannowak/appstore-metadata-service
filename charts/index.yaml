@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  appstore-metadata-service:
+  - apiVersion: v1
+    appVersion: 0.17.0-test
+    created: "2023-06-23T07:34:14.655022966Z"
+    description: Appstore Metadata Service
+    digest: 0068eaa9b67cf12ce309fb8808549bc87816e99de9f0c596afda5d903d159a90
+    home: https://github.com/LibertyGlobal/appstore-metadata-service
+    kubeVersion: '>=1.12.0-0'
+    name: appstore-metadata-service
+    sources:
+    - https://github.com/LibertyGlobal/appstore-metadata-service
+    urls:
+    - https://libertyglobal.github.io/appstore-metadata-service/charts/appstore-metadata-service-0.17.0-test.tgz
+    version: 0.17.0-test
+generated: "2023-06-23T07:34:14.654270866Z"
